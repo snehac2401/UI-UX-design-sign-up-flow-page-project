@@ -4,7 +4,8 @@ UI/UX design sign up flow page project  using figma design free website
 
 
 A mobile app signup flow is the process of users creating an account and signing up for an
- app. The goal of a good signup flow is to make it easy and quick for users to sign up, while
+ app. 
+ The goal of a good signup flow is to make it easy and quick for users to sign up, while
  also collecting the necessary information from them
  A good signup flow should be:
  Short and sweet: Users are more likely to complete a signup flow if it is short and easy to
